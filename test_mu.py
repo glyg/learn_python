@@ -14,5 +14,5 @@ def presentation_string(prenom, nom, age=None, birth_place=None):
     phrase += '.'
     return phrase
 
-print(make_presentation("Guillaume", "GAY", age=39,
-                        birth_place='Aire sur Adour'))
+print(presentation_string("Guillaume", "GAY", ages=39, 
+      birth_place='Aire sur Adour'))
