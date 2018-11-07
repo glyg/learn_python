@@ -1,0 +1,1 @@
+{"auth1": {"firstname": "John", "lastname": "Lennon", "instruments": ["guitar", "voice"]}, "auth2": {"firstname": "Paul", "lastname": "MacCartney", "instruments": ["bass", "voice"]}, "auth3": {"firstname": "Georges", "lastname": "MacCartney", "instruments": "guitar"}, "auth4": {"firstname": "Georges", "lastname": "MacCartney", "instruments": "drums"}}
