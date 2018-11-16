@@ -18,3 +18,42 @@ pourquoi ameliorer rapidement des projets existants en fonction de mes besoins
 pouvoir avoir des bases solides (et a jour) afin de challenger les projets en cours
 avoir une meilleure vision lorsque je fais des EDB
 "	""
+"7"	"1289112"	"09/11/2018 - 11:47"	"09/11/2018 - 11:47"	"09/11/2018 - 11:47"	"0"	"0.0.0.0"	"0"	"Anonymous"	"Hugues HEINRY"	"j'ai fait des études supérieures d'informatique"	"Je n'ai aucune expérience en programmation si ce n'est du scripting shell pour de l'administration système.
+J'ai peu de connaissance en Python contrairement à Hélène et Benoît, collègues suivant aussi cette formation.
+"	"X"	""	"X"	""	"Windows"	"win7"	"Admin système et Activités DevOps"	""
+"8"	"1297369"	"12/11/2018 - 00:25"	"12/11/2018 - 00:25"	"12/11/2018 - 00:25"	"0"	"0.0.0.0"	"0"	"Anonymous"	"Eric Cariat"	"j'ai fait des études supérieures d'informatique"	"Principalement du C + assembleur,  Basic, etc..."	"X"	""	"X"	""	"Mac OS"	"macOS mojave"	"Je développe des objets connectés/des systèmes embarqués. 
+Python pourrait m'aider
+1) à réaliser des POC (proof of concept) très rapidement ... Ex : mesurer un capteur de force, l'envoyer en GSM sur le cloud ...
+2) Réaliser Les bancs de test de production Ex : python peut être utilisé pour piloter des relais, des instruments ( mesure de qualité radio => de plus en plus d'instruments sont fourni avec des librairies python )
+3) utiliser python comme data logger ( pour valider un produit ) Ex : Lire une température chaque seconde sur un port série ( décoder un stream texte et rechercher la temp.) et ensuite afficher un graph sur la journée."	"impatient et curieux de vous rencontrer !"
+"9"	"1297931"	"12/11/2018 - 09:35"	"12/11/2018 - 09:35"	"12/11/2018 - 09:35"	"0"	"0.0.0.0"	"0"	"Anonymous"	"Helene Rakotoharisoa"	"j'ai suivi une option en étude supérieure"	"ASM, C, C++, Perl, PHP, JavaScript, Bash, Python"	"X"	""	"X"	""	"Linux"	"ArchLinux"	"- Admin Système / Devops : scripts de déploiement, de gestion de configuration et d'infra
+- APIs en Python avec Flask"	"Je pratique le Python 2.7 depuis 4 ans (Flask pour les APIs et Fabfile pour les scripts de déploiement). J'utilise pip (requirements.txt) et pipenv (Pipfile) pour la gestion de dépendances de mes applications.
+
+Mes souhaits de formation portent sur:
+- les méthodes packaging / distribution d'apps Python (Conda / Setup.py / Pex ...)
+- la migration d'une base de code Python 2.7 à Python 3
+- les nouvelles fonctionnalités de Python 3"
+"10"	"1297997"	"12/11/2018 - 09:45"	"12/11/2018 - 09:45"	"12/11/2018 - 09:45"	"0"	"0.0.0.0"	"0"	"Anonymous"	"Benoit Ledoux"	"je suis autodidacte"	"Bash, Javascript, PHP, Ruby, Python"	"X"	""	"X"	""	"Linux"	"Ubuntu Xenial"	"* Flask + FlaskAsk (REST API)
+* Fabric build automation"	"* En savoir plus sur les systèmes de résolution de dépendances (pip, pipenv, packaging)
+* En savoir plus sur la migration python 2 vers 3"
+"11"	"1298069"	"12/11/2018 - 09:57"	"12/11/2018 - 09:57"	"12/11/2018 - 09:57"	"0"	"0.0.0.0"	"0"	"Anonymous"	"Eric Peter"	"j'ai suivi une option en étude supérieure"	"J'ai une bonne maîtrise du language SAS et R. Languages que j'utilise ou ai utilisé plusieurs années dans le milieu professionnel.
+J'ai quelques notions de C, Java et Python.
+"	""	"X"	""	"X"	"Windows"	""	"Pour développer des algos de machine Learning et surtout développer des interfaces utilisateurs portatives."	""
+"12"	"1308950"	"13/11/2018 - 17:01"	"13/11/2018 - 17:01"	"13/11/2018 - 17:01"	"0"	"0.0.0.0"	"0"	"Anonymous"	"Lamis Mhedhbi"	"j'ai suivi une option en étude supérieure"	"Pascal (il y a très longtemps)
+PERL
+Python (vraiment débutante)"	"X"	""	""	"X"	"Windows"	"Windows 10"	"Traitement de grands volumes de données textuelles:
+-	Textual Data Preprocessing: NLTK module
+-	Data Collection or Assembly (MongoDB)
+
+Machine learning - NLP
+-	use external libraries to train neural machine translation engines: TensorFlow par exemple
+-	use external libraries to train models for text classification: Scikit-Learn par exemple
+-	Data Exploration & Visualization
+-	Drawing conclusions about textual data
+"	"Ce que j'attends de cette formation : 
+1.	optimisation des scripts: réutilisation de fonctions et de procédures
+2.	comprendre le fonctionnement des modules externes : utilisation, debug
+3.	debug des erreurs d'encodage
+4.	introspection (id, type, dir, help)
+5.	Les particularités du langage Python par rapport à d’autres langages
+"
