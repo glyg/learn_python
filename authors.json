@@ -1,0 +1,20 @@
+[
+  {
+    "first": "John",
+    "last": "Lennon",
+    "instru": "rythm guitar"
+  },
+  {
+    "first": "Paul",
+    "last": "McCartney",
+    "instru": "bass"
+  },
+  {
+    "first": "George",
+    "instru": "lead guitar"
+  },
+  {
+    "last": "Starr",
+    "instru": "drums"
+  }
+]
