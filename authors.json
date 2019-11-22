@@ -1,0 +1,19 @@
+[
+    {
+        "firstname": "John",
+        "lastname": "Lennon",
+        "birth_year": 1940,
+        "instru": "Vocals"
+    },
+    {
+        "firstname": "Paul",
+        "lastname": "McCartney",
+        "birth_year": 1942,
+        "instru": "Bass"
+    },
+    {
+        "lastname": "Harisson",
+        "birth_year": 1943,
+        "instru": "Bass"
+    }
+]
