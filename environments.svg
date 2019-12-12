@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="environments.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="1137.309"
+     inkscape:cy="686.10581"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1052"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;stroke:#241f1c;stroke-width:0.58396196"
+       id="rect10"
+       width="482.7197"
+       height="287.73093"
+       x="-33.071476"
+       y="40.875622" />
+    <rect
+       style="fill:#e3dedb;stroke:#241f1c;stroke-width:0.78297037"
+       id="rect12"
+       width="411.83063"
+       height="225.5836"
+       x="13.925467"
+       y="68.925461" />
+    <rect
+       style="fill:#ff9955;stroke:#241f1c;stroke-width:0.26458332"
+       id="rect111"
+       width="315.9881"
+       height="56.318451"
+       x="95.25"
+       y="91.98571" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="94.494049"
+       y="83.821426"
+       id="text16"><tspan
+         sodipodi:role="line"
+         id="tspan14"
+         x="94.494049"
+         y="83.821426"
+         style="stroke-width:0.26458332">user</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="98.084824"
+       y="99.507431"
+       id="text20"><tspan
+         sodipodi:role="line"
+         id="tspan18"
+         x="98.084824"
+         y="108.8712"
+         style="stroke-width:0.26458332"></tspan><tspan
+         sodipodi:role="line"
+         x="98.084824"
+         y="122.10036"
+         style="stroke-width:0.26458332"
+         id="tspan32">anaconda3/envs/py36/lib/python3.6/site-packages</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="100.73065"
+       y="102.15327"
+       id="text36"><tspan
+         sodipodi:role="line"
+         id="tspan34"
+         x="100.73065"
+         y="102.15327"
+         style="stroke-width:0.26458332">anaconda3/lib/python3.6/site-packages</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="49.892857"
+       y="101.20833"
+       id="text40"><tspan
+         sodipodi:role="line"
+         id="tspan38"
+         x="49.892857"
+         y="101.20833"
+         style="stroke-width:0.26458332;font-style:italic">base</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="54.428574"
+       y="122.186"
+       id="text44"><tspan
+         sodipodi:role="line"
+         id="tspan42"
+         x="54.428574"
+         y="122.186"
+         style="stroke-width:0.26458332;font-style:italic">py36</tspan></text>
+    <text
+       id="text50"
+       y="118.02825"
+       x="98.084824"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="127.39202"
+         x="98.084824"
+         id="tspan46"
+         sodipodi:role="line"></tspan><tspan
+         id="tspan48"
+         style="stroke-width:0.26458332"
+         y="140.62119"
+         x="98.084824"
+         sodipodi:role="line">anaconda3/envs/img_analysis/lib/python3.8/site-packages</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="18.142859"
+       y="140.0643"
+       id="text54"><tspan
+         sodipodi:role="line"
+         id="tspan52"
+         x="18.142859"
+         y="140.0643"
+         style="font-style:italic;stroke-width:0.26458332">img_analysis</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="30.616072"
+       y="52.07143"
+       id="text58"><tspan
+         sodipodi:role="line"
+         id="tspan56"
+         x="30.616072"
+         y="52.07143"
+         style="stroke-width:0.26458332">C://</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff2a2a;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="31.75"
+       y="321.56836"
+       id="text62"><tspan
+         sodipodi:role="line"
+         id="tspan60"
+         x="31.75"
+         y="321.56836"
+         style="fill:#ff2a2a;stroke-width:0.26458332">python/sit-packages</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 52.53869,309.85125 35.824506,20.68329"
+       id="path64"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="103.94345"
+       y="164.3304"
+       id="text68"><tspan
+         sodipodi:role="line"
+         id="tspan66"
+         x="103.94345"
+         y="164.3304"
+         style="stroke-width:0.26458332">Dev/</tspan><tspan
+         sodipodi:role="line"
+         x="103.94345"
+         y="177.55957"
+         style="stroke-width:0.26458332"
+         id="tspan70"> -- projet1/</tspan><tspan
+         sodipodi:role="line"
+         x="103.94345"
+         y="190.78873"
+         style="stroke-width:0.26458332"
+         id="tspan72">         |- setup.py</tspan><tspan
+         sodipodi:role="line"
+         x="103.94345"
+         y="204.0179"
+         style="stroke-width:0.26458332"
+         id="tspan76">         |-proget1/</tspan><tspan
+         sodipodi:role="line"
+         x="103.94345"
+         y="217.24707"
+         style="stroke-width:0.26458332"
+         id="tspan78">                 __init__.py</tspan><tspan
+         sodipodi:role="line"
+         x="103.94345"
+         y="230.47623"
+         style="stroke-width:0.26458332"
+         id="tspan74" /></text>
+    <text
+       id="text107"
+       y="233.12213"
+       x="103.94345"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         id="tspan97"
+         style="stroke-width:0.26458332"
+         y="233.12213"
+         x="103.94345"
+         sodipodi:role="line"> -- projet2/</tspan><tspan
+         id="tspan99"
+         style="stroke-width:0.26458332"
+         y="246.3513"
+         x="103.94345"
+         sodipodi:role="line">         |- setup.py</tspan><tspan
+         id="tspan101"
+         style="stroke-width:0.26458332"
+         y="259.58047"
+         x="103.94345"
+         sodipodi:role="line">         |-proget1/</tspan><tspan
+         id="tspan103"
+         style="stroke-width:0.26458332"
+         y="272.80963"
+         x="103.94345"
+         sodipodi:role="line">                 __init__.py</tspan><tspan
+         id="tspan105"
+         style="stroke-width:0.26458332"
+         y="286.03882"
+         x="103.94345"
+         sodipodi:role="line" /></text>
+    <ellipse
+       style="fill:none;stroke:#241f1c;stroke-width:0.26458332"
+       id="path113"
+       cx="162.52975"
+       cy="189.84375"
+       rx="63.5"
+       ry="31.56101" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 96.761905,190.03274 C -119.45109,117.80897 -4.8965367,114.59426 44.60119,97.806546"
+       id="path115"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path117"
+       d="M 96.761905,190.03274 C -119.45109,117.80897 -1.8727272,137.27283 47.625,120.48512"
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <ellipse
+       ry="31.56101"
+       rx="63.5"
+       cy="189.84375"
+       cx="162.52975"
+       id="ellipse119"
+       style="fill:none;stroke:#241f1c;stroke-width:0.26458332" />
+    <ellipse
+       style="fill:none;stroke:#241f1c;stroke-width:0.26458332"
+       id="ellipse121"
+       cx="162.52975"
+       cy="253.34381"
+       rx="63.5"
+       ry="31.56101" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 98.651784,255.42263 C -117.56123,183.19886 -38.914396,158.43951 10.583331,141.6518"
+       id="path123"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+  </g>
+</svg>
